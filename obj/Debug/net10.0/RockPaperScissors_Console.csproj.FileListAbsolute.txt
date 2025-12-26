@@ -1,0 +1,15 @@
+D:\Code\c#\RockPaperScissors_Console\bin\Debug\net10.0\RockPaperScissors_Console.exe
+D:\Code\c#\RockPaperScissors_Console\bin\Debug\net10.0\RockPaperScissors_Console.deps.json
+D:\Code\c#\RockPaperScissors_Console\bin\Debug\net10.0\RockPaperScissors_Console.runtimeconfig.json
+D:\Code\c#\RockPaperScissors_Console\bin\Debug\net10.0\RockPaperScissors_Console.dll
+D:\Code\c#\RockPaperScissors_Console\bin\Debug\net10.0\RockPaperScissors_Console.pdb
+D:\Code\c#\RockPaperScissors_Console\obj\Debug\net10.0\RockPaperScissors_Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c#\RockPaperScissors_Console\obj\Debug\net10.0\RockPaperScissors_Console.AssemblyInfoInputs.cache
+D:\Code\c#\RockPaperScissors_Console\obj\Debug\net10.0\RockPaperScissors_Console.AssemblyInfo.cs
+D:\Code\c#\RockPaperScissors_Console\obj\Debug\net10.0\RockPaperScissors_Console.csproj.CoreCompileInputs.cache
+D:\Code\c#\RockPaperScissors_Console\obj\Debug\net10.0\RockPaperScissors_Console.sourcelink.json
+D:\Code\c#\RockPaperScissors_Console\obj\Debug\net10.0\RockPaperScissors_Console.dll
+D:\Code\c#\RockPaperScissors_Console\obj\Debug\net10.0\refint\RockPaperScissors_Console.dll
+D:\Code\c#\RockPaperScissors_Console\obj\Debug\net10.0\RockPaperScissors_Console.pdb
+D:\Code\c#\RockPaperScissors_Console\obj\Debug\net10.0\RockPaperScissors_Console.genruntimeconfig.cache
+D:\Code\c#\RockPaperScissors_Console\obj\Debug\net10.0\ref\RockPaperScissors_Console.dll
